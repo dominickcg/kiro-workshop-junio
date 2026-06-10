@@ -59,16 +59,6 @@ La diferencia está en el **momento** del control: Autopilot confía en revisió
 
 ---
 
-## Resumen
-
-| Aspecto | Autopilot | Supervised |
-|---------|-----------|------------|
-| Nivel de intervención | Mínimo | Cada turno con ediciones |
-| Velocidad de ejecución | Alta | Moderada (depende de revisión) |
-| Granularidad de control | Post-ejecución | Pre-aplicación por hunk |
-| Ideal para | Usuarios experimentados, tareas claras | Código sensible, aprendizaje |
-| Reversibilidad | Revert All, Checkpoints | Reject por hunk/archivo |
-
 ---
 
 *Fuente: [kiro.dev/docs/chat/autopilot](https://kiro.dev/docs/chat/autopilot/) — Contenido adaptado de la documentación oficial.*

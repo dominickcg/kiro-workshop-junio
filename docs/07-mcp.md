@@ -110,17 +110,6 @@ El CLI también soporta MCP con la misma configuración. Los servidores definido
 
 ---
 
-## Diferencia con Powers
-
-| Aspecto | MCP (directo) | Powers |
-|---------|---------------|--------|
-| Carga de herramientas | Todas al inicio | Dinámico por palabras clave |
-| Configuración | Manual (JSON) | One-click install |
-| Steering incluido | No | Sí (POWER.md) |
-| Optimización de contexto | No (consume tokens) | Sí (carga solo lo relevante) |
-
-> Para integraciones que necesitan tanto herramientas como guidance, los Powers son generalmente la mejor opción.
-
 ---
 
 *Fuente: [kiro.dev/docs/mcp](https://kiro.dev/docs/mcp/) — Contenido adaptado de la documentación oficial.*

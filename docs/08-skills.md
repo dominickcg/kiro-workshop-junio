@@ -99,16 +99,6 @@ Los skills importados se copian al directorio de skills y funcionan inmediatamen
 
 ---
 
-## Skills vs Steering vs Powers
-
-| Aspecto | Skills | Steering | Powers |
-|---------|--------|----------|--------|
-| Estándar | Abierto (agentskills.io) | Específico de Kiro | Específico de Kiro |
-| Carga | On-demand por descripción | Configurable (always/auto/fileMatch/manual) | Dinámico por keywords |
-| Puede incluir | Scripts, templates, docs | Markdown, file references | MCP tools + steering + hooks |
-| Portabilidad | Alta (cross-tool) | Solo Kiro | Solo Kiro |
-| Mejor para | Workflows reutilizables compartibles | Estándares del proyecto | Integraciones con herramientas externas |
-
 ---
 
 ## Mejores Prácticas

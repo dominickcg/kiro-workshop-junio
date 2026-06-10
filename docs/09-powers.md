@@ -35,16 +35,6 @@ Un Power es un bundle unificado que incluye:
 
 ---
 
-## Diferenciadores vs MCP Directo
-
-| Aspecto | MCP Directo | Powers |
-|---------|-------------|--------|
-| Carga de herramientas | Todas upfront | On-demand por contexto |
-| Configuración | JSON manual | One-click install |
-| Guidance incluido | No | Sí (POWER.md con best practices) |
-| Impacto en contexto | Alto (consume tokens siempre) | Bajo (solo cuando es relevante) |
-| Ecosistema | DIY | Curado + comunidad |
-
 ---
 
 ## Ecosistema de Powers
@@ -87,14 +77,17 @@ Y compartirlos con la comunidad o dentro de la organización.
 
 ---
 
-## Cuándo Usar Powers vs MCP vs Skills
+## Comparativa: Skills vs Powers
 
-| Necesidad | Solución recomendada |
-|-----------|---------------------|
-| Integración con servicio externo + guidance | Power |
-| Herramienta externa simple sin guidance | MCP directo |
-| Workflow reutilizable sin herramientas externas | Skill |
-| Estándares persistentes del proyecto | Steering |
+| Aspecto | Skills | Powers |
+|---------|--------|--------|
+| Estándar | Abierto (agentskills.io) | Específico de Kiro |
+| Activación | On-demand por descripción del skill | Dinámico por keywords en la conversación |
+| Contenido | Instrucciones, scripts, templates, docs | MCP tools + POWER.md + hooks opcionales |
+| Herramientas externas | No incluye (solo instrucciones) | Sí (servidores MCP integrados) |
+| Portabilidad | Alta (compatible con otros AI tools) | Solo Kiro |
+| Instalación | Importar desde GitHub o carpeta local | One-click desde kiro.dev/powers |
+| Mejor para | Workflows reutilizables y compartibles | Integraciones con servicios externos + guidance |
 
 ---
 
