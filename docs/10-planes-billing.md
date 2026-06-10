@@ -107,12 +107,6 @@ Contacto: [pages.awscloud.com/kiro-contact-us](https://pages.awscloud.com/kiro-c
 
 ---
 
-## Métodos de Pago
-
-Kiro acepta métodos de pago estándar. Los precios son exclusivos de impuestos aplicables (IVA, sales tax). Para clientes con dirección de facturación en Japón, aplica el Japanese Consumption Tax.
-
----
-
 ## Disponibilidad Regional
 
 Los planes individuales están disponibles en la mayoría de países y regiones. Consultar la documentación oficial para la lista completa de países soportados.
