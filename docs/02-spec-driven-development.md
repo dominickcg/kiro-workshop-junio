@@ -91,15 +91,14 @@ Las waves se ejecutan secuencialmente; las tareas dentro de una wave se ejecutan
 
 ## Cuándo Usar Specs vs Vibe
 
-**Usa Specs cuando:**
-- Construyes features complejas que requieren planificación estructurada
-- Corriges bugs donde las regresiones son costosas
-- Necesitas documentación para colaboración en equipo
-- Los requerimientos o diseño necesitan iteración
-
-**Usa Vibe cuando:**
-- Haces prototipado rápido y exploratorio
-- Escribes código sin objetivos claros aún
+| Situación | Recomendación |
+|-----------|---------------|
+| Features complejas con planificación estructurada | Spec |
+| Bugfixes donde las regresiones son costosas | Spec |
+| Colaboración en equipo que requiere documentación | Spec |
+| Requerimientos o diseño que necesitan iteración | Spec |
+| Prototipado rápido y exploratorio | Vibe |
+| Código sin objetivos claros aún | Vibe |
 
 ---
 

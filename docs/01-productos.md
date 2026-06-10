@@ -72,4 +72,19 @@ Agente de desarrollo en el navegador, accesible desde [app.kiro.dev](https://app
 
 ---
 
+## Comparativa Rápida
+
+| Característica | IDE | CLI | Web |
+|---------------|-----|-----|-----|
+| Specs | ✓ | ✓ | — |
+| Steering | ✓ | ✓ | — |
+| Hooks | ✓ | — | — |
+| MCP | ✓ | ✓ | ✓ (Powers) |
+| Multimodal (imágenes) | ✓ | ✓ | ✓ |
+| Extensiones/Plugins | ✓ | — | — |
+| Sin instalación | — | — | ✓ |
+| SSH/Remote | — | ✓ | — |
+
+---
+
 *Fuente: [kiro.dev](https://kiro.dev/) — Contenido adaptado de la documentación oficial.*
